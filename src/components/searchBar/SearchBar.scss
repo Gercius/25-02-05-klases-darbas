@@ -1,0 +1,23 @@
+.search-bar {
+    width: fit-content;
+    margin: 2rem auto;
+
+    label {
+        font-size: 1.5rem;
+        display: block;
+        text-align: center;
+        margin: 0.5rem;
+    }
+
+    input {
+        font-size: 1.25rem;
+        padding: 0.25rem 0.5rem;
+    }
+
+    button {
+        display: block;
+        margin: 1rem auto;
+        font-size: 1rem;
+        padding: 0.25rem 0.5rem;
+    }
+}
